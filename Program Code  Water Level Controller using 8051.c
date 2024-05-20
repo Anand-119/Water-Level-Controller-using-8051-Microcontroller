@@ -1,6 +1,6 @@
 
 
-// #include<reg51.h>
+#include<reg51.h>
 sbit full=P1^0;
 sbit mid=P1^1;
 sbit emp=P1^2;

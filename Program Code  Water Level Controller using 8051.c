@@ -1,5 +1,5 @@
 
-
+//rahul
 #include<reg51.h>
 sbit full=P1^0;
 sbit mid=P1^1;
